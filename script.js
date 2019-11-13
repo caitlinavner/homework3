@@ -5,13 +5,13 @@ function generate() {
     var upperChars = confirm("Do you want uppercase chars?");
     var numChars = confirm("Do you want numbers?");
 } 
-if (length > 8) {
-    alert("Negative password length");
-    return;
-} else if (length > 128) {
-    alert("Password length too large");
-    return;
-}
+//if (length > 8) {
+   // alert("Negative password length");
+   // return;
+//} else if (length > 128) {
+   // alert("Password length too large");
+   // return;
+//}
 
 
 
